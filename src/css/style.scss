@@ -156,9 +156,26 @@ h2 {
 
 .note {
     text-indent: 2em;
-    margin-top: 90px;
-    color: $thirdColor;
+    margin-top: 60px;
+    // color: $thirdColor;
     font-size: 18px;
+}
+.note p {
+    font-size: 14px;
+    color: #fff;
+    margin: 2px 0;
+}
+
+.code img {
+    width: 100%;
+    height: 100%;
+}
+
+.codeP {
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 10px;
 }
 
 .main {
@@ -218,7 +235,7 @@ iframe {
 h3 {
     font-size: 19px;
     color: $thirdColor;
-    margin: 0 0 15px 5px;
+    margin: 0 0 10px 5px;
 
     img {
         vertical-align: middle;
