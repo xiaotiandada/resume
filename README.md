@@ -1,10 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume.svg' />
-</a>
+这个仓库是clone [DIYgod](http://github.com/DIYgod) 如果需要可以传送过去~
 
 ## Introduction
 
